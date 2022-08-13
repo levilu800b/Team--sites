@@ -1,0 +1,21 @@
+Cuneyt
+#link_text {
+    text-decoration: none;
+    color:red
+
+h1 {
+    display: flex;
+    border-radius: 50%;
+    border: solid 1px;
+    margin: auto;
+    color: rgb(38, 38, 38);
+    background-color: rgb(240, 240, 240);
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+}
+
+.code {
+    color: red;
+ master
+}
