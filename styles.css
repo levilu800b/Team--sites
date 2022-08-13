@@ -1,3 +1,8 @@
+Cuneyt
+#link_text {
+    text-decoration: none;
+    color:red
+
 h1 {
     display: flex;
     border-radius: 50%;
@@ -12,4 +17,5 @@ h1 {
 
 .code {
     color: red;
+ master
 }
